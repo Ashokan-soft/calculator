@@ -7,6 +7,7 @@ import { TryComponent } from './try/try.component';
 import { CalComponent } from './cal/cal.component';
 import { Cal2Component } from './cal2/cal2.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,

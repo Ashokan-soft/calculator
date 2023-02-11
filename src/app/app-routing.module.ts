@@ -7,7 +7,8 @@ import { TryComponent } from './try/try.component';
 const routes: Routes = [
   {path:'try',component:TryComponent},
   { path:'cal',component:CalComponent},
-  {path:'cal2',component:Cal2Component}
+  {path:'cal2',component:Cal2Component},
+
   
 
 ];
